@@ -1,4 +1,4 @@
-package com.xmstory.design.behavioralType.ObserverMode;
+package com.xmstory.design.behavioralType.observerMode;
 
 /**
  * There is plenty of fish in the sea

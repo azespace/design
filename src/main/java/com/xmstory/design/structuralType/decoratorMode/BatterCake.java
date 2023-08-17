@@ -1,4 +1,4 @@
-package com.xmstory.design.structuralType.DecoratorMode;
+package com.xmstory.design.structuralType.decoratorMode;
 
 /**
  * There is plenty of fish in the sea

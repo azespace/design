@@ -1,11 +1,11 @@
-package com.xmstory.design.structuralType.AdapterMode;
+package com.xmstory.design.structuralType.adapterMode;
 
 /**
  * There is plenty of fish in the sea
  * create by XM on 2023/02/03
  * Description:
  **/
-public class SDCardImpl implements SDCard{
+public class SDCardImpl implements SDCard {
     @Override
     public String readSD() {
         return "SD读取成功！";

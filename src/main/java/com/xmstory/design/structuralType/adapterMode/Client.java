@@ -1,4 +1,4 @@
-package com.xmstory.design.structuralType.AdapterMode;
+package com.xmstory.design.structuralType.adapterMode;
 
 /**
  * There is plenty of fish in the sea

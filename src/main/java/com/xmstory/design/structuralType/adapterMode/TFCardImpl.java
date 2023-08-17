@@ -1,11 +1,11 @@
-package com.xmstory.design.structuralType.AdapterMode;
+package com.xmstory.design.structuralType.adapterMode;
 
 /**
  * There is plenty of fish in the sea
  * create by XM on 2023/02/03
  * Description:
  **/
-public class TFCardImpl implements TFCard{
+public class TFCardImpl implements TFCard {
     @Override
     public String readTF() {
         return "TF读取成功！";

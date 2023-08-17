@@ -1,4 +1,4 @@
-package com.xmstory.design.behavioralType.ObserverMode;
+package com.xmstory.design.behavioralType.observerMode;
 
 import java.lang.reflect.Method;
 

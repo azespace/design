@@ -1,4 +1,6 @@
-package com.xmstory.design.behavioralType.ObserverMode;
+package com.xmstory.design.behavioralType.observerMode;
+
+import com.xmstory.design.behavioralType.observerMode.MouseEventType;
 
 /**
  * There is plenty of fish in the sea

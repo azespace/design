@@ -1,4 +1,4 @@
-package com.xmstory.design.structuralType.FlyweightMode;
+package com.xmstory.design.structuralType.flyweightMode;
 
 import java.util.HashMap;
 import java.util.Map;

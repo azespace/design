@@ -1,4 +1,4 @@
-package com.xmstory.design.structuralType.FlyweightMode;
+package com.xmstory.design.structuralType.flyweightMode;
 
 /**
  * There is plenty of fish in the sea
