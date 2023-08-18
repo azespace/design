@@ -5,7 +5,7 @@ package com.xmstory.design.createType.singletonMode;
  * create by XM on 2023/02/01
  * Description:懒汉式线程安全 内部类实现
  **/
-public class LazySingleton03 {//
+public class LazySingleton03 {
 
     /**
      * 构造方法私有，防止外部new

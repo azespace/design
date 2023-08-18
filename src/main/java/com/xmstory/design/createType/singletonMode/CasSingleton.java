@@ -6,7 +6,7 @@ import java.util.concurrent.atomic.AtomicReference;
  * There is plenty of fish in the sea
  *
  * @Author XM  2023/08/18
- * Description:
+ * Description: AtomicReference实现单例模式 线程安全的
  **/
 public class CasSingleton {
     /**
